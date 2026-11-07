@@ -3,9 +3,9 @@
 Public desktop installers and signed automatic updates for AnyFly.
 Downloads do not require a GitHub account or authentication token.
 
-- [Download the latest release](https://github.com/velnora-client/nautilus-release/releases/latest)
+- [Download the latest release](https://github.com/velnora-client/anyfly-desktop/releases/latest)
 - [Download catalog](https://anyfly.net/desktop/)
-- [Update feed](https://github.com/velnora-client/nautilus-release/releases/latest/download/latest.json)
+- [Update feed](https://github.com/velnora-client/anyfly-desktop/releases/latest/download/latest.json)
 - [Recovery address](https://www.anyfly.org/)
 
 Choose the installer for macOS (Apple Silicon or Intel), Windows x64, or Linux
