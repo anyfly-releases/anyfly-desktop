@@ -1,5 +1,6 @@
 # AnyFly · 未见之地
 
+[English](README.md) | [简体中文](README.zh-CN.md)
 Public desktop installers and signed automatic updates for AnyFly.
 Downloads do not require a GitHub account or authentication token.
 
