@@ -1,0 +1,16 @@
+# Local assistant instructions, settings, and generated notes
+AGENTS.md
+AGENTS.override.md
+AGENTS.local.md
+CLAUDE.md
+CLAUDE.local.md
+CODEX.md
+.codex/
+.claude/
+.agents/
+.claude.json
+.claudeignore
+.codexignore
+.codex-log/
+.superpowers/
+/docs/superpowers/

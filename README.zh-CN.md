@@ -5,9 +5,9 @@
 AnyFly 桌面客户端的公开安装包与签名自动更新资源。
 下载无需 GitHub 账号或身份验证令牌。
 
-- [下载最新版本](https://github.com/anyfly-releases/anyfly-desktop/releases/latest)
+- [下载最新版本](https://github.com/anyfly-releases/anyfly-desktop-release/releases/latest)
 - [下载目录](https://anyfly.net/desktop/)
-- [更新清单](https://github.com/anyfly-releases/anyfly-desktop/releases/latest/download/latest.json)
+- [更新清单](https://github.com/anyfly-releases/anyfly-desktop-release/releases/latest/download/latest.json)
 - [防失联地址](https://www.anyfly.org/)
 
 请选择适合 macOS（Apple Silicon 或 Intel）、Windows x64 或 Linux
